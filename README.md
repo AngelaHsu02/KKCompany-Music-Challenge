@@ -4,3 +4,6 @@
 
 ## 方法
 ngrams + Language Models with Jelinek-Mercer Smoothing
+
+## 結論
+純靠 n grams 架構可以得到 0.55569 的分數(可以推估 70 萬首結果中的 50 萬首），加上 Jelinek-Mercer 語言模型可以將分數提高到 0.56580
